@@ -39,12 +39,12 @@ I'm a senior software engineer based in the Central Belt of Scotland with over 1
 
 ## 🔧 Tech I Use
 
-**Languages**: `C#` `JavaScript` `TypeScript` `PHP`
-**Frameworks**: `Vue` `Node.js` `ASP.NET`
-**UI**: `Bootstrap` `Tailwind` `jQuery` `CSS3` `HTML5`
-**DB**: `MySQL` `SQL Server` `SQLite`
-**Tools**: `Visual Studio` `VSCode` `Git`
-**Also love**: `Raspberry Pi` `WordPress` `Photoshop`
+* **Languages**: `C#` `JavaScript` `TypeScript` `PHP`
+* **Frameworks**: `Vue` `Node.js` `ASP.NET`
+* **UI**: `Bootstrap` `Tailwind` `jQuery` `CSS3` `HTML5`
+* **DB**: `MySQL` `SQL Server` `SQLite`
+* **Tools**: `Visual Studio` `VSCode` `Git`
+* **Also love**: `Raspberry Pi` `WordPress` `Photoshop`
 
 ## ⏳ Currently
 
@@ -52,5 +52,6 @@ I'm a senior software engineer based in the Central Belt of Scotland with over 1
 * 🌱 Learning: Game design, WebGL and 3D shaders
 * ✍️ Writing: blog posts on design systems
 
+<br/>
 
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> Code is like humor. When you have to explain it, it’s bad. – Cory House
