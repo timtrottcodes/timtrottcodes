@@ -1,11 +1,9 @@
 # Hi there! 👋 I'm **Tim Trott**
 
-I'm a senior software engineer based in the Central Belt of Scotland with over 15 years experience building quality websites and software applications to drive traffic and sales across a range of industries including retail, tourism, clothing, and medical.
-      
-  * 🎓 HND in Software Engineering
-  * 🔧 Microsoft certified ASP.Net / C# developer
-  * 🌟 Diplomas in Graphic Design, Photography, and Astronomy
+I'm a senior software engineer based in the Central Belt of Scotland with 20+ years’ experience building quality websites and software applications to drive traffic and sales across a range of industries including retail, tourism, clothing, and medical.
 
+I'm a full-stack developer passionate about writing clean, high-performance code, always pushing boundaries, and driven by the challenge of building better, faster, and smarter solutions.
+      
 <div align="center">
   <a href="https://www.linkedin.com/in/timtrott/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -40,11 +38,11 @@ I'm a senior software engineer based in the Central Belt of Scotland with over 1
 ## 🔧 Tech I Use
 
 * **Languages**: `C#` `JavaScript` `TypeScript` `PHP`
-* **Frameworks**: `Vue` `Node.js` `ASP.NET`
+* **Frameworks**: `Vue` `Node.js` `ASP.NET` `Angular`
 * **UI**: `Bootstrap` `Tailwind` `jQuery` `CSS3` `HTML5`
 * **DB**: `MySQL` `SQL Server` `SQLite`
-* **Tools**: `Visual Studio` `VSCode` `Git`
-* **Also love**: `Raspberry Pi` `WordPress` `Photoshop`
+* **Tools**: `Visual Studio` `VSCode` `Git` `Docker`
+* **Also love**: `Raspberry Pi` `WordPress` `Photoshop` `Unraid`
 
 ## ⏳ Currently
 
